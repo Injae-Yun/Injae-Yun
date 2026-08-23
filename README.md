@@ -26,6 +26,12 @@ LLM, 파운데이션 모델, physical AI 등에 관심이 많으며 실제 환�
 | **[LLM_qwen](https://github.com/Injae-Yun/LLM_qwen)** | 텍스트(Qwen2.5-7B + RAG)와 비전(Qwen2.5-VL-7B) 두 전문 에이전트가 이종 데이터를 교차 평가하는 프레임워크. 단일 GPU에서 에이전트 전환 시 VRAM 관리 |
 | **[agent_society](https://github.com/Injae-Yun/agent_society)** | 욕구 기반 멀티 에이전트 시뮬레이션 + LLM 내러티브 생성. LLM 백엔드(HuggingFace / Ollama / Mock)를 교체 가능한 인터페이스로 추상화 |
 
+## 운영 중인 시스템
+
+| | |
+|---|---|
+| **[academy-attendance](https://github.com/Injae-Yun/academy-attendance)** | 학원 출결 관리 웹앱. 2년치 실데이터가 든 기존 11개 시트의 구조를 전혀 바꾸지 않는다는 제약 아래, 그 위에 얹는 방식으로 설계. 발송 provider 어댑터(2종) + 큐 + 트리거, 자격증명은 ScriptProperties 분리, 테스트 722개 |
+
 ## 게임 AI · 기타
 
 | | |
