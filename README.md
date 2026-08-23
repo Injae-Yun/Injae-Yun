@@ -2,8 +2,9 @@
 
 **AI Engineer** · 블루시그널 AI팀 팀장 · KAIST 계산뇌과학 박사
 
-사전학습된 파운데이션 모델을 데이터와 자원이 부족한 실제 환경에 통합해 동작시키는 일을 합니다.
-연구 단계의 모델을 실제로 돌아가는 시스템으로 옮기는 구간에 관심이 있습니다.
+데이터 분석 및 현상을 설명하는 모델(ML/AI) 개발에 관심이 많습니다.
+LLM, 파운데이션 모델, physical AI 등에 관심이 많으며 실제 환경에 구현해보는 일을 합니다.
+연구 단계의 모델을 실제로 돌아가는 시스템으로 구현합니다.
 
 [Google Scholar](https://scholar.google.com/citations?user=Hfo5N40AAAAJ&hl=en) · desty9367@gmail.com
 
